@@ -1,7 +1,7 @@
 [project]
 name = "agents-course-hf"
 version = "0.1.0"
-description = "Add your description here"
+description = "Code and Notes for the HuggingFace Agents course"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []

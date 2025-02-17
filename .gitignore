@@ -39,3 +39,5 @@ profile.json
 # IDE
 .idea
 .vscode
+
+.env

@@ -45,3 +45,4 @@ profile.json
 # Notebooks specific data folders
 notebooks/test-trainer
 notebooks/drug-reviews
+notebooks/gh-issues

@@ -24,3 +24,10 @@ Update ref:
 ```bash
 $ git submodule update --remote --recursive
 ```
+
+## Traceability with phoenix-arize
+
+Run:
+```bash
+$ python -m phoenix.server.main serve
+```

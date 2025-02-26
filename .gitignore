@@ -41,3 +41,7 @@ profile.json
 .vscode
 
 .env
+
+# Notebooks specific data folders
+notebooks/test-trainer
+notebooks/drug-reviews
